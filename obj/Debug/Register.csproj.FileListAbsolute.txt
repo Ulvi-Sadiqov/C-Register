@@ -1,0 +1,13 @@
+C:\Users\Elvin\source\repos\Register\Register\bin\Debug\Register.exe.config
+C:\Users\Elvin\source\repos\Register\Register\bin\Debug\Register.exe
+C:\Users\Elvin\source\repos\Register\Register\bin\Debug\Register.pdb
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.csprojAssemblyReference.cache
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.Properties.Resources.resources
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.csproj.GenerateResource.cache
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.exe
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.pdb
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.RegisterLogin.resources
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.HomeScreen.resources
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.administration.resources
+C:\Users\Elvin\source\repos\Register\Register\obj\Debug\Register.Component.HomeControl.resources
